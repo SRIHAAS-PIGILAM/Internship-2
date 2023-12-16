@@ -1,4 +1,3 @@
-Certainly! Below is a basic template for a README file for your GitHub project. Feel free to customize it further based on the specifics of your project.
 
 ---
 
