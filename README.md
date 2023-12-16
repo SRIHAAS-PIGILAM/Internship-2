@@ -11,7 +11,7 @@ Welcome to the Auto Insurance Claim Prediction project repository! This project 
 
 - **Project Title:** Auto Insurance Claim Prediction
 - **Intern:** P.Srihaas
-- **Internship Duration:** [Start Date] - [End Date]
+- **Internship Duration:** [05th June 2023] - [04th Agugust 2023]
 
 ## Project Description
 
